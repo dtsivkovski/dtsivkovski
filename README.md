@@ -4,7 +4,7 @@ I'm Daniel Tsivkovski, a student at Del Norte High School who is interested in s
 
 ### My Github Stats
 
-[![Daniel Tsivkovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtsivkovski&show_icons=true&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel Tsivkovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtsivkovski&show_icons=true&theme=noctis_minimus)](https://github.com/dtsivkovski)
 
 ### Current Projects
 
