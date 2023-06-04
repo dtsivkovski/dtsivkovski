@@ -16,7 +16,4 @@ I'm Daniel Tsivkovski, a student at Del Norte High School who is interested in s
 
 </div>
 
-### Current Projects
-
-- [Statibara Project](https://github.com/users/dtsivkovski/projects/3)
-- [DADY Academy - Physics Tools](https://github.com/dylanluo05/DADY-Academy/)
+Currently working on the [Statibara Project](https://github.com/dtsivkovski/statibara)!
