@@ -12,7 +12,5 @@ I'm Daniel Tsivkovski, a student at Chapman University majoring in Computer Scie
   
 Currently, I am:<br/>
 Working on [Haptic Research](https://github.com/dtsivkovski/HapticResearch) for displaying shapes and math games on a braille display<br/>
-Studying [Data Structures](https://github.com/dtsivkovski/Data-Structures) and [LLMs](https://github.com/dtsivkovski/CPSC_298) <br/>
-Working on a small personal project called [Numerical Classes](https://github.com/dtsivkovski/numerical-classes) for strict type safety purposes in calculations
 
 </div>
