@@ -1,16 +1,13 @@
 <div align="center">
-
-## 🙋‍♂️ Hello!
-
-I'm Daniel Tsivkovski, a student at Chapman University majoring in Computer Science. 
-
-### My Github Stats
   
-<!-- [![Daniel Tsivkovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=dtsivkovski&show_icons=true&theme=transparent&hide_border=true)](https://github.com/dtsivkovski) -->
+## 👋 Hi there!
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dtsivkovski&theme=transparent&hide_border=true&fire=EB5454&stroke=EB5454&currStreakNum=EB5454&ring=EBA416&sideNums=EBA416&sideLabels=C83EEB&currStreakLabel=C83EEB&dates=919191)](https://git.io/streak-stats)
+I'm Daniel Tsivkovski, a student at Chapman University majoring in <b>Computer Science</b>. I love <b>Web Development</b> and I am currently pursuing <b>Internet Security and Policy</b>. 
   
-Currently, I am:<br/>
-Working on [Haptic Research](https://github.com/dtsivkovski/HapticResearch) for displaying shapes and math games on a braille display<br/>
-
+## Recently, I've been...<br/>
+Working on [PantherGuessr](https://github.com/PantherGuessr/PantherGuessr), a guessing game around Chapman University <br/><br/>
+Hiking! 🥾<br/><br/>
+Working on [PantherHacks](https://github.com/PantherHacks/pantherhacks.dev), a website for the first hackathon at Chapman University<br/><br/>
+Taking photos! 📷<br/><br/>
+Working on [games for various braille displays](https://github.com/dtsivkovski/braille-reader-game)<br/><br/>
 </div>
